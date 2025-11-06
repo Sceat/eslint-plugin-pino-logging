@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin-pino-logging",
+  "version": "1.0.0",
+  "description": "ESLint plugin to enforce Pino logging best practices with snake_case field naming",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "pino",
+    "logging",
+    "structured-logging",
+    "security"
+  ],
+  "author": "Sceat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sceat/eslint-plugin-pino-logging.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
