@@ -210,7 +210,8 @@ req_logger.info('validating input')
 ## Related Documentation
 
 - [Pino Logger Documentation](https://getpino.io/)
-- [BetterStack Logging Conventions](https://github.com/Sceat/brain/blob/master/knowledge/betterstack-logging-conventions.md) (comprehensive guide)
+- [BetterStack Logs](https://betterstack.com/docs/logs/)
+- [ClickHouse SQL Reference](https://clickhouse.com/docs/en/sql-reference)
 
 ## License
 
